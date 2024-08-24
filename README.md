@@ -27,15 +27,15 @@
 # Recent publications
 
 ## 2024
-Minseo Park and Jangmin Oh, Enhancing E-Commerce Recommendation Systems with Multiple Item Purchase Data: A Bidirectional Encoder Representations from Transformers-Based Approach, *Applied Sciences*. 2024, 14(16):7255, https://doi.org/10.3390/app14167255 (SCIE)
+Minseo Park and Jangmin Oh, Enhancing E-Commerce Recommendation Systems with Multiple Item Purchase Data: A Bidirectional Encoder Representations from Transformers-Based Approach, *Applied Sciences*. 2024, 14(16):7255, [https://doi.org/10.3390/app14167255](https://doi.org/10.3390/app14167255) (SCIE)
 
 
-Jangmin Oh, Developing a Model for Extracting Actual Product Names from Order Item Descriptions Using Generative Language Models, *IEEE Access*. 2024, https://doi.org/10.1109/ACCESS.2024.3437197 (SCIE)
+Jangmin Oh, Developing a Model for Extracting Actual Product Names from Order Item Descriptions Using Generative Language Models, *IEEE Access*. 2024, [https://doi.org/10.1109/ACCESS.2024.3437197](https://doi.org/10.1109/ACCESS.2024.3437197) (SCIE)
 
 
-Jangmin Oh, Development of an Automatic Food Ordering App Using GPT-4 Labeling and Google Gemma-2B Fine-Tuning, *KIISE Transactions on Computing Practices*. 2024, 30(8), pp. 392-400, https://doi.org/10.5626/KTCP.2024.30.8.392 (KCI)
+Jangmin Oh, Development of an Automatic Food Ordering App Using GPT-4 Labeling and Google Gemma-2B Fine-Tuning, *KIISE Transactions on Computing Practices*. 2024, 30(8), pp. 392-400, [https://doi.org/10.5626/KTCP.2024.30.8.392](https://doi.org/10.5626/KTCP.2024.30.8.392) (KCI)
 
-Che-eun Baek, Yesl Kwon, and Jangmin Oh, Predicting of the Number of Diners in School Cafeteria; Including COVID-19 Pandemic Period Data, *Journal of KIISE*. 2024, 51(7), pp. 634-642, https://doi.org/5626/JOK.2024.51.7.634 (KCI)
+Che-eun Baek, Yesl Kwon, and Jangmin Oh, Predicting of the Number of Diners in School Cafeteria; Including COVID-19 Pandemic Period Data, *Journal of KIISE*. 2024, 51(7), pp. 634-642, [https://doi.org/5626/JOK.2024.51.7.634](https://doi.org/5626/JOK.2024.51.7.634) (KCI)
 
 
 
