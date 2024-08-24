@@ -1,4 +1,4 @@
-# IGNITE Lab (Innovative Generation of Natural Intelligence and Technological Excellence)
+# AIDEN Lab (Artificial Intelligence Development and ENgineering Lab)
 
 # Members
 
