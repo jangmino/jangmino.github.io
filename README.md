@@ -1,4 +1,4 @@
-# AIDEN Lab (Artificial Intelligence Development and ENgineering Lab)
+# AIDEN Lab (<span style="color:Red">A</span>rtificial <span style="color:Red">I</span>ntelligence <span style="color:Red">D</span>evelopment and <span style="color:Red">EN</span>gineering Lab)
 
 # Members
 
