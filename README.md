@@ -1,5 +1,9 @@
 # AIDEN Lab (<span style="color:Red">A</span>rtificial <span style="color:Red">I</span>ntelligence <span style="color:Red">D</span>evelopment and <span style="color:Red">EN</span>gineering Lab)
 
+# Background
+
+우리 연구실은 인공지능을 적용하여 현실 세계의 문제를 해결하는 어플리케이션 개발을 추구합니다. 특히 생성형 AI 모델의 다양한 응용을 연구하고 있습니다. 추천 시스템, 금융 공학, 언어 모델, 멀티 모달 모델의 개선과 응용에 초점을 맞추고 있습니다. Hugging Face 의 `transformers`, `diffusers` 위주의 AI 개발 방법론의 최신 변경사항을 반영한 실무 위주의 연구 개발을 지향합니다.
+
 # Members
 
 - 지도교수
@@ -12,7 +16,16 @@
   - 홍수인
   - 이강현
 - 졸업생
-  - 박민서 -> 고려대학교 정보보호대학원 인공지능 연구실 석사과정 (인턴)
+  - 박민서 → 고려대학교 정보보호대학원 인공지능 연구실 석사과정 (인턴)
+  
+# 대학원생 모집
+
+2025년도 전기 대학원 진학에 관심 있는 학생들은 지도 교수에게 연락 바랍니다. 상담후 결정합니다.
+
+인재상: 학점에 무관하며 다음에 모두 해당해야 합니다.
+- 생성형 AI 모델을 일상 생활, 공부, 코딩에 활용하고 있는 학생
+- 석사 과정 동안 SCIE 저널 게재를 목표로 삼고자 하는 학생
+- 최신 AI 개발 방법론을 익혀 취업 포트폴리오를 갖고자 하는 학생 
 
 # Recent Activities
 
