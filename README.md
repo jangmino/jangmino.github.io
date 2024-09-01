@@ -37,7 +37,7 @@
 - 2022.11.01 ~ 2022.12.31, 산업 자문: 솔디자인플랜 (15 M. Won)
 - 2021.09.01 ~ 2021.12.31, 산업 용역: 만나플래닛 (20 M. Won)
 
-# Recent publications
+# Recent publications (Journals)
 
 ## 2024
 Minseo Park and Jangmin Oh, Enhancing E-Commerce Recommendation Systems with Multiple Item Purchase Data: A Bidirectional Encoder Representations from Transformers-Based Approach, *Applied Sciences*. 2024, 14(16):7255, [https://doi.org/10.3390/app14167255](https://doi.org/10.3390/app14167255) (SCIE)
@@ -51,5 +51,20 @@ Jangmin Oh, Development of an Automatic Food Ordering App Using GPT-4 Labeling a
 Che-eun Baek, Yesl Kwon, and Jangmin Oh, Predicting of the Number of Diners in School Cafeteria; Including COVID-19 Pandemic Period Data, *Journal of KIISE*. 2024, 51(7), pp. 634-642, [https://doi.org/5626/JOK.2024.51.7.634](https://doi.org/5626/JOK.2024.51.7.634) (KCI)
 
 
+## 2022
+Jangmin Oh, Short-Term Stock Price Prediction by Supervised Learning of Rapid Volume Decrease Patterns, *IEICE Transactions on Information and Systems*. 2022, E105.D(8), pp. 1431-1442, [https://doi.org/10.1587/transinf.2021edp7243](https://doi.org/10.1587/transinf.2021edp7243) (SCIE)
+
+Jangmin Oh, Development of a stock trading system based on a neural network using highly volatile stock price patterns. *PeerJ Computer Science*. 2022, 8:e915, [https://doi.org/10.7717/peerj-cs.915](https://doi.org/10.7717/peerj-cs.915) (SCIE)
 
 
+# Recent publications (Conferfences)
+
+김관영, 오장민, 박찬덕, Hindsight Experience Replay 기반 강화학습을 이용한 Linear Quadratic Problem 해법에 대한 기초 연구, 제 39회 제어로봇시스템학회 학술대회. 2024
+
+황용석, 오장민, 신민호, 김의환, 박경서, 뉴스 검색 엔진을 통한 뉴스 소스 및 내용의 다양성 평가 - 다양성 지표와 임베딩 기반 콘텐츠 유사성 측정 방법, 한국방송학회 2024 봄철 정기학술대회. 2024, pp. 43-48
+
+Minseo Park and Jangmin Oh, Leveraging Concurrent Purchase History for Enhanced E-commerce Recommendations, 한국인공지능학회 2023 하계 및 추계 학술대회 논문집. 2023
+
+# Articles
+
+오장민, 생성형 AI의 기술 진화 및 연구 동향: 언어 모델을 중심으로, 정보통신정책연구원 KISDI AI Outlook. 2024, 6월호, [링크](https://www.kisdi.re.kr/report/list.do?key=m2101113025377&arrMasterId=4333446)
