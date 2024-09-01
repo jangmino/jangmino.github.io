@@ -40,11 +40,10 @@
 # Recent publications (Journals)
 
 ## 2024
-Minseo Park and Jangmin Oh, Enhancing E-Commerce Recommendation Systems with Multiple Item Purchase Data: A Bidirectional Encoder Representations from Transformers-Based Approach, *Applied Sciences*. 2024, 14(16):7255, [https://doi.org/10.3390/app14167255](https://doi.org/10.3390/app14167255) (SCIE)
-
 
 Jangmin Oh, Developing a Model for Extracting Actual Product Names from Order Item Descriptions Using Generative Language Models, *IEEE Access*. 2024, [https://doi.org/10.1109/ACCESS.2024.3437197](https://doi.org/10.1109/ACCESS.2024.3437197) (SCIE)
 
+Minseo Park and Jangmin Oh, Enhancing E-Commerce Recommendation Systems with Multiple Item Purchase Data: A Bidirectional Encoder Representations from Transformers-Based Approach, *Applied Sciences*. 2024, 14(16):7255, [https://doi.org/10.3390/app14167255](https://doi.org/10.3390/app14167255) (SCIE)
 
 Jangmin Oh, Development of an Automatic Food Ordering App Using GPT-4 Labeling and Google Gemma-2B Fine-Tuning, *KIISE Transactions on Computing Practices*. 2024, 30(8), pp. 392-400, [https://doi.org/10.5626/KTCP.2024.30.8.392](https://doi.org/10.5626/KTCP.2024.30.8.392) (KCI)
 
