@@ -41,7 +41,7 @@
 
 ## 2024
 
-Jangmin Oh, Developing a Model for Extracting Actual Product Names from Order Item Descriptions Using Generative Language Models, *IEEE Access*. 2024, [https://doi.org/10.1109/ACCESS.2024.3437197](https://doi.org/10.1109/ACCESS.2024.3437197) (SCIE)
+Jangmin Oh, Developing a Model for Extracting Actual Product Names from Order Item Descriptions Using Generative Language Models, *IEEE Access*. 2024, 12, pp. 122695-122701, [https://doi.org/10.1109/ACCESS.2024.3437197](https://doi.org/10.1109/ACCESS.2024.3437197) (SCIE)
 
 Minseo Park and Jangmin Oh, Enhancing E-Commerce Recommendation Systems with Multiple Item Purchase Data: A Bidirectional Encoder Representations from Transformers-Based Approach, *Applied Sciences*. 2024, 14(16):7255, [https://doi.org/10.3390/app14167255](https://doi.org/10.3390/app14167255) (SCIE)
 
