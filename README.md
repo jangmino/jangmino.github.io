@@ -64,6 +64,9 @@ Jangmin Oh, Development of a stock trading system based on a neural network usin
 
 Minseo Park and Jangmin Oh, Leveraging Concurrent Purchase History for Enhanced E-commerce Recommendations, 한국인공지능학회 2023 하계 및 추계 학술대회 논문집. 2023
 
+# Books
+이성엽 외, 생성형 AI와 법, 박영사, [ISBN: 9791130348193](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=349674523&start=slayer), 2024
+
 # Articles
 
 오장민, 생성형 AI의 기술 진화 및 연구 동향: 언어 모델을 중심으로, 정보통신정책연구원 KISDI AI Outlook. 2024, 6월호, [링크](https://www.kisdi.re.kr/report/list.do?key=m2101113025377&arrMasterId=4333446)
