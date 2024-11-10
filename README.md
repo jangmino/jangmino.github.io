@@ -56,7 +56,7 @@ Jangmin Oh, Short-Term Stock Price Prediction by Supervised Learning of Rapid Vo
 Jangmin Oh, Development of a stock trading system based on a neural network using highly volatile stock price patterns. *PeerJ Computer Science*. 2022, 8:e915, [https://doi.org/10.7717/peerj-cs.915](https://doi.org/10.7717/peerj-cs.915) (SCIE)
 
 
-# Recent publications (Conferfences)
+# Recent publications (Conferences)
 
 김관영, 오장민, 박찬덕, Hindsight Experience Replay 기반 강화학습을 이용한 Linear Quadratic Problem 해법에 대한 기초 연구, 제 39회 제어로봇시스템학회 학술대회. 2024
 
