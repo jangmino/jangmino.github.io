@@ -30,7 +30,7 @@
 
 # Recent Activities
 - 2025.03.01 ~ 2025.12.31, 정보통신정책연구원 디지털플랫폼 정책 포럼 위원
-- 2024.12.01 ~ 2025.11.30, 산업 자문: 한패스 (100 M. Won)
+- 2024.12.01 ~ 2025.05.30, 산업 자문: 한패스 (50 M. Won)
 - 2024.03.01 ~ 2024.12.31, 정보통신정책연구원 디지털플랫폼 정책 포럼 위원
 - 2023.03.01 ~ 2023.12.31, 정보통신정책연구원 디지털플랫폼 정책 포럼 위원
 - 2023.01.01 ~ 2023.12.31, 산업 자문: 만나플래닛 (100 M. Won)
@@ -70,5 +70,9 @@ Minseo Park and Jangmin Oh, Leveraging Concurrent Purchase History for Enhanced 
 이성엽 외, 생성형 AI와 법, 박영사, [ISBN: 9791130348193](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=349674523&start=slayer), 2024
 
 # Articles
+
+오장민, 멀티모달, 콘텐츠 생성, 개볼 플랫폼... AI 기술의 전 계층 수직적 통합, 동아 비지니스 리뷰 (DBR), 2025, 6월 Issue 2,[링크](https://dbr.donga.com/article/view/1901/article_no/11716/ac/magazine)
+
+오장민, 기업들, 구글 AI 단순 이용 넘어 피드백 제공해 윈윈 협력, 동아 비지니스 리뷰 (DBR), 2025, 6월 Issue 2, [링크](https://dbr.donga.com/article/view/1901/article_no/11717/ac/magazine)
 
 오장민, 생성형 AI의 기술 진화 및 연구 동향: 언어 모델을 중심으로, 정보통신정책연구원 KISDI AI Outlook. 2024, 6월호, [링크](https://www.kisdi.re.kr/report/list.do?key=m2101113025377&arrMasterId=4333446)
