@@ -1,7 +1,3 @@
-<!-- 상단 배경 이미지 추가 -->
-<div style="width:100%; height:220px; background-image:url('images/mt_hallam.JPG'); background-size:cover; background-position:center; margin-bottom:20px; border-radius:10px;"></div>
-
-
 # AIDEN Lab (<span style="color:Red">A</span>rtificial <span style="color:Red">I</span>ntelligence <span style="color:Red">D</span>evelopment and <span style="color:Red">EN</span>gineering Lab)
 
 # Background
