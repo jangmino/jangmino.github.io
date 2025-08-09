@@ -75,4 +75,4 @@ Minseo Park and Jangmin Oh, Leveraging Concurrent Purchase History for Enhanced 
 
 오장민, 기업들, 구글 AI 단순 이용 넘어 피드백 제공해 윈윈 협력, 동아 비지니스 리뷰 (DBR), 2025, 6월 Issue 2, [링크](https://dbr.donga.com/article/view/1901/article_no/11717/ac/magazine)
 
-오장민, 생성형 AI의 기술 진화 및 연구 동향: 언어 모델을 중심으로, 정보통신정책연구원 KISDI AI Outlook. 2024, 6월호, [링크](https://www.kisdi.re.kr/report/list.do?key=m2101113025377&arrMasterId=4333446)
+오장민, 생성형 AI의 기술 진화 및 연구 동향: 언어 모델을 중심으로, 정보통신정책연구원 KISDI AI Outlook. 2023, 6월호, [링크](https://www.kisdi.re.kr/report/list.do?key=m2101113025377&arrMasterId=4333446)
